@@ -1,0 +1,6 @@
+#ignore all...
+*
+#but this
+!.gitignore
+!Sch_GB_lib.SchLib
+!PCB_GB_lib.PcbLib
